@@ -1,5 +1,5 @@
 # EyeSearch (Python Version)
-# author:wangxinwen, mail: mywcyfl@163.com
+# author:wangxinwen, mail: mywcyfl$163.com (replace $ with @)
 # all right reserved, 2013-2015.
 #
 # dependent on pygame, can get it from : http://www.pygame.org
@@ -39,4 +39,4 @@ README:
 	3.更多信息，请参见我的毕业论文《基于网格多级精确度递进式草图识别算法研究与设计》。
 
 联系方式：
-	中山大学信息科学与技术学院计算机技术（专硕）15届毕业生，王新文，mywcyfl@163.com
+	中山大学信息科学与技术学院计算机技术（专硕）15届毕业生，王新文，mywcyfl$163.com(replace $ with @)
